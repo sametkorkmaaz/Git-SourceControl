@@ -17,6 +17,7 @@ class ViewController: UIViewController {
         print("commit")
         
         button.backgroundColor = UIColor.red
+        print("yeni ekeleme yaptım")
     }
 
 
